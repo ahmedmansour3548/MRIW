@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
                 <Route path="/" element={<HomeComponent />} />
                 <Route path="/ar" element={<ARComponent />} />
                 <Route path="/admin" element={<AdminComponent />} />
-                <Route path="*" element={<p>There is nothing here: 404!</p>} />
+                <Route path="*" element={<p>Nothing here! 404!</p>} />
             </Routes>
         </React.StrictMode>
     </Router>
