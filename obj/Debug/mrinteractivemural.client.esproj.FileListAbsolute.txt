@@ -5,3 +5,4 @@ C:\Users\kendr\Documents\UCF\newMRI\MRInteractiveWall\mrinteractivemural.client\
 C:\Users\Ahmed\Playground\MRInteractiveWall 3-7\mrinteractivemural.client\obj\Debug\mrinteractivemural.client.esproj.CoreCompileInputs.cache
 C:\Users\Ahmed\Playground\MRIW\mrinteractivemural.client\obj\Debug\mrinteractivemural.client.esproj.CoreCompileInputs.cache
 C:\Users\ah505081\VARLAB\Projects\MRIW\mrinteractivemural.client\obj\Debug\mrinteractivemural.client.esproj.CoreCompileInputs.cache
+C:\Users\ah505081\VARLAB\Projects\MRIWNoC\mrinteractivemural.client\obj\Debug\mrinteractivemural.client.esproj.CoreCompileInputs.cache
